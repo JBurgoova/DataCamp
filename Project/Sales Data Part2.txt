@@ -1,0 +1,323 @@
+Order Date	Order ID.1	Order ID.2	Customer Name.1	Customer Name.2	Segment	Country	City	Location	Product ID.1	Product ID.2	Product ID.3	Category	Product Name	Sales	Quantity	CompanyName	Expiry Date
+02/10/2021	CD	566760	'Abal	Gaber	Corporate	Pakistan	Lahore	Site	OFF	AR	10002053	Diploma	Social Media Diploma	11399.94	6	Affinity Investment Group	null
+02/10/2021	ND	626721	Faith	Rogers	Corporate	United Kingdom	Warrington	Site	OFF	BI	10003274	Award	HR Award	35976	24	Mr. Good Buys	null
+02/10/2021	GK	382078	Sa'dah	Salib	Corporate	Pakistan	Lahore	Site	FUR	TA	10001705	Courses	ECDL	625	1	Eli Moore Inc	null
+02/10/2021	XX	623599	Labeeb	Abboud	Corporate	Pakistan	Lahore	Site	OFF	PA	10001289	Courses	Graphic Design	24500	14	One-Up Realty	null
+02/10/2021	KX	481045	Sanaa	Baba	Corporate	Kuwait	Kuwait City	Site	OFF	PA	10004041	Diploma	Microsoft Office Diploma	67500	27	Superior Appraisals	null
+02/11/2020	WR	58197	Abdul-Ahad	Boulos	Corporate	Pakistan	Lahore	Site	OFF	AR	10002987	Award	Microsoft Office Award	13500	9	Food Barn	null
+02/11/2020	GQ	224894	Dawit	Kifle	Home Office	Kenya	Nairobi	Site	FUR	CH	10002372	Courses	Cloud Architecture	3360	7	null	null
+02/11/2020	SA	493695	Alem	Abrha	Home Office	Kenya	Nairobi	Site	TEC	PH	10002483	Diploma	Graphic Design Diploma	28800	16	null	null
+02/11/2020	NS	848638	Samira	Eyob	Home Office	Kenya	Nairobi	Site	OFF	PA	10003205	Diploma	Graphic Design Diploma	12600	7	null	null
+02/11/2020	RK	635189	Alexandra	Baldwin	Consumer	United Kingdom	Liverpool	Hub	FUR	FU	10004270	Courses	Python	350	1	null	null
+02/11/2020	ZJ	391624	Taymullah	Antoun	Home Office	Pakistan	Lahore	Site	GUP	VA	75957661	Courses	Graphic Design	19250	11	null	null
+02/11/2020	TD	755587	Abdul-Khaliq	Asghar	Home Office	Pakistan	Lahore	Site	OFF	LA	10002271	Diploma	Graphic Design Diploma	50400	28	null	null
+02/11/2020	SY	21155	Tewelde	Haylom	Home Office	Kenya	Nairobi	Site	FUR	CH	10003396	Courses	Python	6650	19	null	null
+02/11/2021	VP	16886	Juwain	Naser	Home Office	Kuwait	Kuwait City	Site	GKL	HH	34595223	Courses	Microsoft Excel	3192	8	null	null
+02/11/2021	WP	151322	Maladh	Shadid	Home Office	Pakistan	Lahore	Site	FUR	TA	10000849	Courses	Python	4900	14	null	null
+02/11/2021	GX	517247	Mason	Dyer	Home Office	United Kingdom	Warrington	Site	API	XC	17129060	Courses	Graphic Design	36750	21	null	null
+02/11/2021	TW	472642	Lidya	Selam	Corporate	Kenya	Nairobi	Site	OFF	ST	10002214	Courses	Graphic Design	29750	17	Ideal Garden Maintenance	null
+02/11/2021	GW	135421	Fawziya	Atiyeh	Home Office	Kuwait	Kuwait City	Site	TEC	AC	10004001	Diploma	IT Support Diploma	33000	15	null	null
+02/11/2021	OJ	418016	Huwaidah	Mikhail	Corporate	Pakistan	Lahore	Site	OFF	PA	10004911	Courses	Graphic Design	33250	19	The White Rabbit	null
+02/11/2021	QB	211946	Zafir	Kattan	Home Office	Pakistan	Lahore	Site	CZZ	WH	47664372	Diploma	Executive PA Diploma	63000	14	null	null
+02/11/2021	ZV	950439	Mebrahtu	Gabriel	Home Office	Kenya	Nairobi	Site	FUR	BO	10002545	Courses	Microsoft Excel	7182	18	null	null
+02/11/2021	FL	911387	Isra'	Seif	Corporate	Kuwait	Kuwait City	Site	TEC	PH	10001051	Diploma	Microsoft Office Diploma	42500	17	John F. Lawhon	null
+02/11/2021	PF	27245	Hudhayfah	Botros	Home Office	Pakistan	Lahore	Site	FUR	BO	10001567	Courses	Medical Terminology	3150	7	null	null
+02/11/2021	GS	292661	Safwah	Halabi	Consumer	Pakistan	Lahore	Site	OFF	ST	10000078	Courses	Graphic Design	1750	1	null	null
+02/11/2021	NY	206749	Sawdah	Totah	Consumer	Pakistan	Lahore	Site	OFF	BI	10001524	Courses	Executive Assistant Diploma	3999	1	null	null
+02/11/2021	RX	140239	Harrison	Hart	Corporate	United Kingdom	Liverpool	Hub	TEC	PH	10001448	Diploma	Graphic Design Diploma	25200	14	Big Daddy's Restaurants	null
+02/12/2020	HY	788571	Sibal	Koury	Consumer	Pakistan	Lahore	Site	OFF	LA	10004345	Award	Microsoft Office Award	1500	1	null	null
+02/12/2020	YH	169528	Semira	Girmay	Consumer	Kenya	Nairobi	Site	OFF	LA	10001045	Courses	Graphic Design	1750	1	null	null
+02/12/2020	TB	914750	Na'im	Maloof	Consumer	Pakistan	Lahore	Site	DOF	SK	92779577	Courses	ECDL	625	1	null	null
+02/12/2020	TG	468275	Omran	Shalhoub	Consumer	Pakistan	Lahore	Site	OFF	LA	10003714	Courses	Graphic Design	1750	1	null	null
+02/12/2020	YX	415803	Is'ad	Khouri	Home Office	Pakistan	Lahore	Site	RZF	IN	25097638	Diploma	Graphic Design Diploma	3600	2	null	null
+02/12/2020	CR	135705	Yerusalem	Gabriel	Corporate	Kenya	Nairobi	Site	OFF	BI	10001071	Courses	Graphic Design	42000	24	Forth & Towne	null
+02/12/2020	IG	115594	Bisrat	Negassi	Consumer	Kenya	Nairobi	Site	BQT	KC	54000233	Courses	Graphic Design	1750	1	null	null
+02/12/2020	SB	186871	Samarah	Cham	Consumer	Pakistan	Lahore	Site	OFF	PA	10002250	Courses	Graphic Design	1750	1	null	null
+02/12/2020	ES	634630	Ahmad	Maloof	Corporate	Pakistan	Lahore	Site	OFF	AR	10004078	Award	Microsoft Office Award	33000	22	Cavages	null
+02/12/2020	KI	611649	Hayden	Cox	Consumer	United Kingdom	Warrington	Site	FUR	FU	10001591	Courses	Social Media	400	1	null	null
+02/12/2021	AM	327263	Jarir	Ganim	Consumer	Pakistan	Lahore	Site	TEC	PH	10002103	Diploma	Social Media Diploma	1899.99	1	null	null
+02/12/2021	UI	257482	Hamidah	Amari	Consumer	Pakistan	Lahore	Site	TEC	AC	10004510	Diploma	Freelancer Diploma	2500	1	null	null
+02/12/2021	CH	935347	Badra	Quraishi	Corporate	Pakistan	Lahore	Site	OFF	AR	10004691	Award	Microsoft Office Award	42000	28	Jackhammer Technologies	null
+02/12/2021	KL	104588	Dawit	Hagos	Consumer	Kenya	Nairobi	Site	RJH	BL	34913480	Courses	Graphic Design	1750	1	null	null
+02/12/2021	UO	694452	Husam	Fakhoury	Corporate	Pakistan	Lahore	Site	UHA	JC	24295218	Courses	ECDL	8125	13	Nan Duskin	null
+02/12/2021	UW	314541	Gimja	Tekle	Corporate	Kenya	Nairobi	Site	FUR	TA	10002903	Courses	ECDL	10000	16	Play Town	null
+02/12/2021	ZR	828850	Eyob	Massawa	Consumer	Kenya	Nairobi	Site	RBC	FO	54408216	Courses	Graphic Design	1750	1	null	null
+02/12/2021	TW	151246	Fre-weini	Fikru	Consumer	Kenya	Nairobi	Site	OFF	LA	10001175	Courses	Graphic Design	1750	1	null	null
+02/12/2021	YT	228127	Latif	Hakimi	Corporate	Pakistan	Lahore	Site	KEM	AQ	88485494	Award	HR Award	25483	17	Excella	null
+02/12/2021	GZ	813271	Brhane	Omar	Consumer	Kenya	Nairobi	Site	OFF	ST	10004950	Courses	Graphic Design	1750	1	null	null
+02/12/2021	EP	175635	Fiori	Kidane	Home Office	Kenya	Nairobi	Site	OFF	ST	10003470	Award	Microsoft Office Award	31500	21	null	null
+02/12/2021	JW	314204	Miqdad	Isa	Consumer	Pakistan	Lahore	Site	LSZ	YT	10008675	Award	HR Award	1499	1	null	null
+02/12/2021	WP	221298	Tesfalem	Girma	Consumer	Kenya	Nairobi	Site	FUR	BO	10004695	Courses	Python	350	1	null	null
+02/12/2021	KA	157000	Nasira	Kalb	Consumer	Pakistan	Lahore	Site	FUR	FU	10004864	Courses	Social Media	400	1	null	null
+02/12/2021	EY	605831	Rahel	Kiros	Home Office	Kenya	Nairobi	Site	OFF	BI	10004364	Award	Social Media Award	22800	19	null	null
+02/12/2021	KM	551148	Aaron	Powell	Home Office	United Kingdom	Warrington	Site	OFF	LA	10000407	Award	Social Media Award	27600	23	null	null
+02/12/2021	NR	241983	Suhail	Harb	Corporate	Pakistan	Lahore	Site	OFF	AR	10004260	Diploma	Graphic Design Diploma	36000	20	Success Is Yours	null
+02/12/2021	XJ	739117	Aza	Naifeh	Corporate	Pakistan	Lahore	Site	OFF	EN	10004773	Award	Microsoft Office Award	42000	28	Record Town	null
+02/12/2021	SM	987803	Samuel	Glover	Consumer	United Kingdom	Warrington	Site	WCB	JU	24578846	Courses	Graphic Design	1750	1	null	null
+02/12/2021	QW	999642	Haylom	Aatifa	Home Office	Kenya	Nairobi	Site	BYV	LO	25163296	Courses	Graphic Design	10500	6	null	null
+02/12/2021	ON	776898	Khuzaymah	Salib	Consumer	Pakistan	Lahore	Site	TEC	PH	10001615	Diploma	Graphic Design Diploma	1800	1	null	null
+03/01/2020	GE	979301	Baligh	Hadad	Corporate	Kuwait	Kuwait City	Site	FUR	CH	10002961	Courses	Social Media	1600	4	Practi-Plan Mapping	null
+03/01/2020	BS	511659	Samuel	Barker	Consumer	United Kingdom	Liverpool	Hub	TEC	AC	10004510	Diploma	IT Support Diploma	2200	1	null	null
+03/01/2020	BV	502167	Katie	Carpenter	Consumer	United Kingdom	Warrington	Site	OFF	PA	10004040	Courses	Graphic Design	1750	1	null	null
+03/01/2020	JS	323590	Ghunyah	Moghadam	Corporate	Kuwait	Kuwait City	Site	OFF	PA	10003657	Award	Microsoft Office Award	42000	28	Big A Auto Parts	null
+03/01/2020	DV	933018	Abdullah	Asmara	Corporate	Kenya	Nairobi	Site	OFF	BI	10004330	Award	Microsoft Office Award	40500	27	J. B. Van Sciver	null
+03/01/2020	MO	695067	Bilqees	Aswad	Corporate	Pakistan	Lahore	Site	OFF	BI	10004584	Courses	Graphic Design	49000	28	Rainbow Bay Crafts	null
+03/01/2020	AU	622910	Mushirah	Hanania	Corporate	Pakistan	Lahore	Site	OFF	PA	10002377	Courses	Graphic Design	43750	25	Magik Grey	null
+03/01/2020	RH	688252	A'dab	Maloof	Consumer	Pakistan	Lahore	Site	XBM	OP	62224573	Courses	ECDL	625	1	null	null
+03/01/2020	IN	600376	Hijrah	Antoun	Corporate	Pakistan	Lahore	Site	OFF	AR	10001044	Courses	Graphic Design	33250	19	Stratagee	null
+03/01/2020	PE	458799	Barakah	Arian	Consumer	Pakistan	Lahore	Site	NUO	EG	9886672	Courses	Graphic Design	1750	1	null	null
+03/01/2020	QX	599088	Fadwa	Ba	Home Office	Kuwait	Kuwait City	Site	FUR	FU	10003829	Courses	Social Media	8000	20	null	null
+03/01/2020	CI	169418	Lily	Hart	Home Office	United Kingdom	Liverpool	Hub	HON	EC	74776653	Courses	Graphic Design	49000	28	null	null
+03/01/2020	FM	821865	Nizar	Rahal	Consumer	Kuwait	Kuwait City	Site	VAS	PA	90188813	Award	HR Award	1499	1	null	null
+03/01/2021	CE	47587	Lamya	Srour	Consumer	Pakistan	Lahore	Site	RXS	RC	62542887	Award	IT Support Award	1250	1	null	null
+03/01/2021	YZ	48606	Umarah	Boulos	Corporate	Pakistan	Lahore	Site	AWJ	MO	37216635	Courses	ECDL	9375	15	Audio Visions	null
+03/01/2021	OU	15901	Zahra	Michael	Consumer	Kenya	Nairobi	Site	OFF	PA	10004782	Award	Microsoft Office Award	1500	1	null	null
+03/01/2021	YV	285649	Sarah	Touma	Consumer	Pakistan	Lahore	Site	TEC	MA	10000418	Diploma	Freelancer Diploma	2500	1	null	null
+03/01/2021	NT	541651	Izdihar	Dagher	Corporate	Kuwait	Kuwait City	Site	OFF	BI	10002949	Courses	Graphic Design	12250	7	Network Air	null
+03/01/2021	CJ	771853	Tibah	Asfour	Corporate	Pakistan	Lahore	Site	OFF	AP	10002945	Award	Microsoft Office Award	19500	13	New World Realty	null
+03/01/2021	TR	446418	Tahsin	Asker	Corporate	Pakistan	Lahore	Site	SLD	PW	30002115	Courses	Graphic Design	15750	9	JumboSports	null
+03/01/2021	FC	873617	Abrar	Haik	Consumer	Pakistan	Lahore	Site	TEC	AC	10003709	Diploma	IT Support Diploma	2200	1	null	null
+03/01/2021	QD	937325	Ra'fat	Naifeh	Corporate	Kuwait	Kuwait City	Site	NDE	VY	13689272	Courses	Graphic Design	49000	28	Asian Answers	null
+03/01/2022	PE	712165	Khairi	Hakimi	Corporate	Kuwait	Kuwait City	Site	OFF	ST	10004186	Award	Microsoft Office Award	45000	30	Life Map Planners	null
+03/01/2022	YG	975191	Bisar	Moghadam	Consumer	Pakistan	Lahore	Site	TEC	PH	10003442	Diploma	Social Media Diploma	1899.99	1	null	null
+03/01/2022	NZ	922300	Isaias	Mebrahtu	Home Office	Kenya	Nairobi	Site	QEN	IY	66637107	Diploma	IT Support Diploma	17600	8	null	null
+03/01/2022	HR	319754	Yusri	Atiyeh	Corporate	Kuwait	Kuwait City	Site	XGU	XZ	33084488	Courses	ECDL	4375	7	Young @ Heart	null
+03/01/2022	QJ	421757	Oliver	Brennan	Consumer	United Kingdom	Warrington	Site	OFF	SU	10002881	Courses	Executive Assistant Diploma	3999	1	null	null
+03/01/2022	ZH	249788	Abraham	Petros	Consumer	Kenya	Nairobi	Site	OFF	BI	10004308	Award	Microsoft Office Award	1500	1	null	null
+03/01/2022	ZR	318088	Latifah	Maloof	Corporate	Kuwait	Kuwait City	Site	IFL	VL	94694686	Courses	Graphic Design	35000	20	Furrow's	null
+03/01/2022	BY	285240	Fatimah	Tesfalem	Consumer	Kenya	Nairobi	Site	TEC	AC	10004659	Diploma	Graphic Design Diploma	1800	1	null	null
+03/01/2022	TR	670690	Yasmin	Thorpe	Home Office	United Kingdom	Warrington	Site	OFF	PA	10001033	Award	Microsoft Office Award	39000	26	null	null
+03/01/2022	SP	731051	Bilqis	Halabi	Corporate	Kuwait	Kuwait City	Site	FUR	BO	10003966	Courses	CompTIA	13777	23	Friendly Interior Design	null
+03/01/2022	WS	672637	Zakariyya	Nader	Corporate	Kuwait	Kuwait City	Site	GFF	LQ	60189541	Award	HR Award	19487	13	ManPower	null
+03/01/2022	VU	61061	Rida	Aswad	Home Office	Pakistan	Lahore	Site	OFF	AP	10001271	Courses	Graphic Design	47250	27	null	null
+03/01/2022	JR	875481	Mehret	Rezene	Corporate	Kenya	Nairobi	Site	OFF	PA	10001293	Courses	Executive Assistant Diploma	19995	5	Custom Lawn Care	null
+03/01/2022	PO	519114	Abdul-Mu'min	Mustafa	Consumer	Pakistan	Lahore	Site	ANE	DF	93995527	Award	IT Support Award	1250	1	null	null
+03/01/2022	LK	123489	Mansur	Asfour	Consumer	Pakistan	Lahore	Site	ICT	EF	51932730	Diploma	Graphic Design Diploma	1800	1	null	null
+03/01/2022	FL	245592	Toby	Carr	Consumer	United Kingdom	Liverpool	Hub	FUR	FU	10004973	Courses	Python	350	1	null	null
+03/02/2020	VC	557819	Sabirah	Handal	Consumer	Pakistan	Lahore	Site	OFF	SU	10000946	Award	Social Media Award	1200	1	null	null
+03/02/2020	YR	564645	Aminah	Sarkis	Consumer	Kuwait	Kuwait City	Site	NBO	CX	93107949	Award	HR Award	1499	1	null	null
+03/02/2020	JU	202976	Yemane	Omar	Consumer	Kenya	Nairobi	Site	OAN	WJ	85815237	Courses	Graphic Design	1750	1	null	null
+03/02/2020	LP	755906	Rhys	Hammond	Consumer	United Kingdom	Warrington	Site	TEC	AC	10003832	Diploma	Graphic Design Diploma	1800	1	null	null
+03/02/2020	DX	102918	'Awad	Safar	Corporate	Pakistan	Lahore	Site	FUR	TA	10001307	Courses	Python	8400	24	Nan Duskin	null
+03/02/2020	IN	247292	Abdullah	Aman	Home Office	Kenya	Nairobi	Site	ADU	DA	37837219	Courses	ECDL	11250	18	null	null
+03/02/2020	DP	386934	Amina	Muhammed	Home Office	Kenya	Nairobi	Site	FUR	FU	10001215	Courses	Social Media	1600	4	null	null
+03/02/2020	QY	72667	Rim	Salib	Consumer	Pakistan	Lahore	Site	OFF	PA	10003848	Award	Social Media Award	1200	1	null	null
+03/02/2020	VS	975560	Salim	Almasi	Home Office	Kuwait	Kuwait City	Site	PMC	EQ	20055289	Diploma	Executive PA Diploma	121500	27	null	null
+03/02/2020	KM	664685	Abdullah	Antoun	Consumer	Pakistan	Lahore	Site	OFF	PA	10001166	Courses	Graphic Design	1750	1	null	null
+03/02/2020	VQ	516358	Maisie	Banks	Corporate	United Kingdom	Warrington	Site	TEC	PH	10002200	Diploma	Freelancer Diploma	65000	26	Golf Augusta Pro Shops	null
+03/02/2020	YP	550383	Hanif	Asfour	Consumer	Pakistan	Lahore	Site	OFF	BI	10002764	Courses	Graphic Design	1750	1	null	null
+03/02/2020	ET	613451	Maya	Young	Corporate	United Kingdom	Warrington	Site	OFF	PA	10004082	Award	Microsoft Office Award	27000	18	Jay Jacobs	null
+03/02/2020	QZ	903739	Wadha	Awad	Corporate	Pakistan	Lahore	Site	ETR	SG	54691229	Courses	Graphic Design	35000	20	Play Town	null
+03/02/2020	TZ	131796	Daniel	Walsh	Consumer	United Kingdom	Liverpool	Hub	TEC	MA	10001148	Diploma	Graphic Design Diploma	1800	1	null	null
+03/02/2020	RD	853187	'Imad	Atiyeh	Home Office	Pakistan	Lahore	Site	HZB	TF	44631001	Courses	Graphic Design	28000	16	null	null
+03/02/2020	DY	289388	Kai	Sinclair	Corporate	United Kingdom	Warrington	Site	EOX	FG	75396050	Award	Medical Award	13200	12	Forum Cafeterias	null
+03/02/2020	IK	86516	Aladdin	Nazari	Home Office	Pakistan	Lahore	Site	TEC	PH	10000673	Diploma	Microsoft Office Diploma	27500	11	null	null
+03/02/2021	EU	904887	Mash'al	Arian	Home Office	Pakistan	Lahore	Site	FUR	FU	10001424	Courses	Microsoft Access	7000	28	null	null
+03/02/2021	JG	722861	Sirin	Sabbagh	Home Office	Pakistan	Lahore	Site	OFF	BI	10004995	Diploma	HR Diploma	11200	7	null	null
+03/02/2021	YI	858857	Winta	Futsum	Corporate	Kenya	Nairobi	Site	QDA	DO	76946911	Award	HR Award	34477	23	Olympic Sports	null
+03/02/2021	UK	751992	Gabriel	Rezene	Home Office	Kenya	Nairobi	Site	OFF	PA	10002615	Courses	Graphic Design	31500	18	null	null
+03/02/2021	EE	602268	Tia	Coles	Home Office	United Kingdom	Warrington	Site	OFF	PA	10000605	Courses	Graphic Design	36750	21	null	null
+03/02/2021	BX	718280	Aatifa	Brhane	Home Office	Kenya	Nairobi	Site	TEC	AC	10002076	Diploma	IT Support Diploma	44000	20	null	null
+03/02/2021	RV	513969	Murad	Harb	Corporate	Pakistan	Lahore	Site	OFF	BI	10000014	Award	Microsoft Office Award	15000	10	Sanitary Grocery Stores	null
+03/02/2021	HH	361163	Filmon	Fikru	Home Office	Kenya	Nairobi	Site	DFM	AI	97816786	Courses	Graphic Design	36750	21	null	null
+03/02/2021	TG	561958	Ameer	Bahar	Home Office	Pakistan	Lahore	Site	FUR	TA	10003748	Courses	Python	4900	14	null	null
+03/02/2021	ZI	213990	Awet	Biniam	Consumer	Kenya	Nairobi	Site	OFF	PA	10001125	Courses	Graphic Design	1750	1	null	null
+03/02/2021	FF	800479	Khair	al Din Mifsud	Home Office	Kuwait	Kuwait City	Site	FUR	BO	10004015	Courses	Python	6300	18	null	null
+03/02/2022	JH	450246	Abdul-Muqtadir	Hajjar	Consumer	Pakistan	Lahore	Site	RJR	BX	63561140	Courses	CompTIA	599	1	null	null
+03/02/2022	OC	772578	Wegahta	Tesfay	Consumer	Kenya	Nairobi	Site	TEC	MA	10000864	Diploma	Freelancer Diploma	2500	1	null	null
+03/02/2022	MR	53652	Samira	Shadid	Home Office	Pakistan	Lahore	Site	OFF	PA	10000289	Courses	Graphic Design	42000	24	null	null
+03/02/2022	MR	303306	Winta	Adonay	Consumer	Kenya	Nairobi	Site	OFF	BI	10001597	Award	Social Media Award	1200	1	null	null
+03/02/2022	SS	614198	Hamid	Tesfalem	Consumer	Kenya	Nairobi	Site	TEC	PH	10004165	Diploma	HR Diploma	1600	1	null	null
+03/02/2022	XW	534835	Asiya	Touma	Home Office	Kuwait	Kuwait City	Site	TEC	PH	10002824	Diploma	Executive PA Diploma	135000	30	null	null
+03/02/2022	PQ	694078	Ratib	Najjar	Corporate	Pakistan	Lahore	Site	OFF	ST	10003994	Award	Microsoft Office Award	7500	5	Capitalcorp	null
+03/02/2022	UT	792996	Dylan	Stevenson	Consumer	United Kingdom	Warrington	Site	IGK	BB	64386723	Diploma	Executive PA Diploma	4500	1	null	null
+03/02/2022	MO	753383	Fikru	Efrem	Corporate	Kenya	Nairobi	Site	OFF	BI	10000069	Diploma	HR Diploma	38400	24	Lawnscape Garden Maintenance	null
+03/02/2022	WU	94541	Yunus	Wasem	Corporate	Pakistan	Lahore	Site	FUR	FU	10001095	Courses	Social Media	6000	15	FamilyMart	null
+03/02/2022	HN	34345	A'mal	Boutros	Corporate	Pakistan	Lahore	Site	OFF	AP	10003590	Award	Microsoft Office Award	27000	18	Farmer Jack	null
+03/02/2022	IH	398839	Asra	Assaf	Home Office	Kuwait	Kuwait City	Site	XHH	RM	83658587	Award	IT Support Award	25000	20	null	null
+03/02/2022	QU	761675	Rais	Ganim	Home Office	Pakistan	Lahore	Site	OFF	AR	10003251	Courses	Graphic Design	28000	16	null	null
+03/02/2022	ZM	556054	Jonathan	Stephenson	Consumer	United Kingdom	Liverpool	Hub	FUR	FU	10004909	Courses	Cloud Architecture	480	1	null	null
+03/02/2022	AA	784780	Oscar	Carpenter	Corporate	United Kingdom	Warrington	Site	BVG	RV	43317030	Courses	CompTIA	1198	2	Golden Joy	null
+03/02/2022	AY	154189	Isaias	Sebhat	Consumer	Kenya	Nairobi	Site	FUR	FU	10003394	Courses	ECDL	625	1	null	null
+03/02/2022	UD	240727	'Iffah	Shamoun	Consumer	Pakistan	Lahore	Site	OOP	OS	6333463	Courses	ECDL	625	1	null	null
+03/02/2022	FZ	786186	Mu'awiyah	Mifsud	Home Office	Pakistan	Lahore	Site	OFF	BI	10000301	Award	Microsoft Office Award	45000	30	null	null
+03/02/2022	WP	760708	Tahiyat	Botros	Consumer	Pakistan	Lahore	Site	OFF	PA	10001776	Award	Social Media Award	1200	1	null	null
+03/02/2022	HQ	422163	Rabab	Kassab	Consumer	Pakistan	Lahore	Site	FUR	TA	10003715	Courses	Social Media	400	1	null	null
+03/03/2020	IE	209564	Maymunah	Attia	Home Office	Pakistan	Lahore	Site	FUR	FU	10003096	Courses	Microsoft Powerpoint	5681	19	null	null
+03/03/2020	FX	858995	Talibah	Saliba	Corporate	Pakistan	Lahore	Site	FUR	TA	10001095	Courses	SQL	1750	5	Burger Chef	null
+03/03/2020	WZ	562847	Fatimah	Almasi	Corporate	Pakistan	Lahore	Site	TEC	MA	10003066	Diploma	Executive PA Diploma	121500	27	Handy Andy	null
+03/03/2020	WS	848428	Juwain	Boulos	Home Office	Pakistan	Lahore	Site	TEC	AC	10003289	Diploma	Microsoft Office Diploma	25000	10	null	null
+03/03/2020	IT	657136	Amelia	Haynes	Home Office	United Kingdom	Warrington	Site	OFF	PA	10002333	Courses	Graphic Design	1750	1	null	null
+03/03/2020	EW	795631	Robert	Thornton	Home Office	United Kingdom	Warrington	Site	OFF	PA	10002005	Award	Microsoft Office Award	34500	23	null	null
+03/03/2020	OV	842158	Rashida	Arian	Corporate	Pakistan	Lahore	Site	TEC	PH	10001128	Diploma	Social Media Diploma	30399.84	16	Anderson-Little	null
+03/03/2020	AN	808672	Nu'man	Mansour	Consumer	Pakistan	Lahore	Site	OFF	AP	10004249	Award	Social Media Award	1200	1	null	null
+03/03/2020	MB	176436	Fariq	Hajjar	Home Office	Kuwait	Kuwait City	Site	CXB	NL	85184349	Courses	Graphic Design	3500	2	null	null
+03/03/2020	FO	507878	Ramadan	Khoury	Consumer	Pakistan	Lahore	Site	OFF	AR	10001915	Courses	Graphic Design	1750	1	null	null
+03/03/2020	QG	855020	I'tidal	Koury	Corporate	Pakistan	Lahore	Site	OFF	PA	10000223	Diploma	HR Diploma	32000	20	Las Vegas Yard Management	null
+03/03/2020	LP	519656	Abdul-Ra'uf	Atiyeh	Home Office	Pakistan	Lahore	Site	FUR	FU	10002885	Courses	Social Media	400	1	null	null
+03/03/2020	AY	453064	Hudad	Shamoon	Corporate	Pakistan	Lahore	Site	TEC	PH	10004908	Diploma	IT Support Diploma	44000	20	Network Air	null
+03/03/2021	JU	818370	Rajih	Assaf	Home Office	Kuwait	Kuwait City	Site	FUR	CH	10004287	Courses	Microsoft Powerpoint	6578	22	null	null
+03/03/2021	UD	717143	Sahir	Haddad	Corporate	Pakistan	Lahore	Site	TEC	PH	10003691	Diploma	Microsoft Office Diploma	45000	18	Canal Villere	null
+03/03/2021	GZ	742986	Murshidah	Wasem	Corporate	Pakistan	Lahore	Site	OFF	SU	10004737	Award	Microsoft Office Award	16500	11	Penn Fruit	null
+03/03/2021	JI	944636	Lujain	Hanania	Home Office	Pakistan	Lahore	Site	OFF	BI	10000977	Courses	Graphic Design	17500	10	null	null
+03/03/2021	FM	275496	Adonay	Efrem	Home Office	Kenya	Nairobi	Site	EHO	XX	17357776	Diploma	IT Support Diploma	57200	26	null	null
+03/03/2021	PW	673932	Husn	Antoun	Corporate	Pakistan	Lahore	Site	FUR	FU	10001935	Courses	Social Media	5200	13	Rich and Happy	null
+03/03/2021	IX	168173	Ermias	Mehari	Home Office	Kenya	Nairobi	Site	FMP	FR	43043394	Award	HR Award	19487	13	null	null
+03/03/2021	HS	664304	Khayri	Wasem	Corporate	Pakistan	Lahore	Site	OFF	PA	10003039	Award	IT Support Award	26250	21	Skaggs-Alpha Beta	null
+03/03/2021	YZ	632144	Berhane	Elias	Corporate	Kenya	Nairobi	Site	OFF	PA	10004071	Diploma	Graphic Design Diploma	14400	8	Father & Son	null
+03/03/2021	YJ	343228	Tekle	Brhane	Home Office	Kenya	Nairobi	Site	FUR	FU	10004415	Courses	CompTIA	13178	22	null	null
+03/03/2021	BT	545746	Hubab	Guirguis	Corporate	Pakistan	Lahore	Site	OOV	PQ	43970773	Courses	Graphic Design	31500	18	Keeney's	null
+03/03/2022	LW	91287	Sabihah	Mansour	Corporate	Pakistan	Lahore	Site	OFF	LA	10001641	Diploma	Social Media Diploma	18999.9	10	Club Wholesale	null
+03/03/2022	NR	230548	Hilmi	Shamon	Consumer	Pakistan	Lahore	Site	CFU	RF	2069098	Courses	Graphic Design	1750	1	null	null
+03/03/2022	RD	540561	Hollie	Graham	Corporate	United Kingdom	Warrington	Site	TSJ	DO	16755391	Courses	Graphic Design	45500	26	Lechters Housewares	null
+03/03/2022	IM	891784	Nicole	Burgess	Corporate	United Kingdom	Liverpool	Hub	TEC	AC	10004568	Diploma	IT Support Diploma	15400	7	Jewel Mart	null
+03/03/2022	XW	692541	George	Austin	Consumer	United Kingdom	Liverpool	Hub	FUR	BO	10003034	Courses	Cloud Architecture	480	1	null	null
+03/03/2022	RC	117551	Ali	Afwerki	Home Office	Kenya	Nairobi	Site	OFF	PA	10003641	Diploma	Social Media Diploma	11399.94	6	null	null
+03/03/2022	SL	616008	Mujab	Shamon	Corporate	Pakistan	Lahore	Site	OFF	BI	10002824	Diploma	Microsoft Office Diploma	57500	23	Ideal Garden Management	null
+03/03/2022	UF	322880	Morgan	Patterson	Consumer	United Kingdom	Warrington	Site	JBU	SW	54178377	Award	IT Support Award	1250	1	null	null
+03/03/2022	NM	394657	Asmara	Futsum	Home Office	Kenya	Nairobi	Site	OFF	PA	10000249	Diploma	Graphic Design Diploma	32400	18	null	null
+03/03/2022	IZ	643332	Khairiya	Moghadam	Home Office	Pakistan	Lahore	Site	OFF	BI	10001196	Award	Microsoft Office Award	16500	11	null	null
+03/03/2022	OD	466676	Jake	Humphreys	Home Office	United Kingdom	Warrington	Site	FUR	FU	10000087	Courses	Social Media	12000	30	null	null
+03/03/2022	GU	592998	Lutfi	Shamoun	Consumer	Pakistan	Lahore	Site	OFF	BI	10000831	Courses	Graphic Design	1750	1	null	null
+03/03/2022	ZR	355900	Hagosa	Filmon	Home Office	Kenya	Nairobi	Site	OFF	BI	10003719	Courses	Graphic Design	21000	12	null	null
+03/03/2022	RZ	582148	Nathifa	Tuma	Corporate	Pakistan	Lahore	Site	OFF	BI	10002012	Courses	Graphic Design	10500	6	BASCO	null
+03/03/2022	CB	917317	Thurayya	Basara	Corporate	Pakistan	Lahore	Site	VYQ	WA	51008321	Courses	ECDL	10625	17	Weatherill's	null
+03/03/2022	LL	736055	Afeef	Tannous	Home Office	Pakistan	Lahore	Site	OFF	AR	10003158	Courses	Graphic Design	35000	20	null	null
+03/04/2020	PM	995595	Iqbal	Nazari	Home Office	Pakistan	Lahore	Site	OFF	PA	10000061	Courses	Executive Assistant Diploma	3999	1	null	null
+03/04/2020	KH	969560	Isra'il	Boutros	Home Office	Pakistan	Lahore	Site	TEC	AC	10004510	Diploma	HR Diploma	20800	13	null	null
+03/04/2020	TZ	468056	Lidya	Tesfay	Consumer	Kenya	Nairobi	Site	OFF	PA	10000575	Courses	Graphic Design	1750	1	null	null
+03/04/2020	TQ	642079	Lete	Saare	Consumer	Kenya	Nairobi	Site	VAJ	WI	77644315	Award	HR Award	1499	1	null	null
+03/04/2020	ZL	384592	Abdul-Sabur	Kanaan	Corporate	Pakistan	Lahore	Site	FUR	FU	10004586	Courses	Microsoft Powerpoint	5980	20	Nan Duskin	null
+03/04/2020	VJ	278225	Basim	Sarraf	Home Office	Pakistan	Lahore	Site	OFF	AR	10003338	Award	Microsoft Office Award	40500	27	null	null
+03/04/2020	JM	826	Kasim	Sabbagh	Corporate	Pakistan	Lahore	Site	FUR	CH	10004477	Courses	Microsoft Powerpoint	2990	10	Briazz	null
+03/04/2020	MK	925249	Sam	Bryant	Corporate	United Kingdom	Warrington	Site	ECG	SD	26527892	Diploma	IT Support Diploma	41800	19	Manu Connection	null
+03/04/2020	CA	139838	Ali	Semhar	Corporate	Kenya	Nairobi	Site	OFF	AP	10000804	Courses	Graphic Design	15750	9	Success Is Yours	null
+03/04/2020	ST	99520	Freddie	Howe	Home Office	United Kingdom	Liverpool	Hub	OFF	ST	10003692	Courses	Graphic Design	12250	7	null	null
+03/04/2020	FR	715441	Ma'ruf	Attia	Home Office	Pakistan	Lahore	Site	OFF	BI	10003982	Courses	Graphic Design	52500	30	null	null
+03/04/2020	JY	969007	Zara	Hunt	Consumer	United Kingdom	Warrington	Site	OFF	AP	10004708	Courses	Graphic Design	1750	1	null	null
+03/04/2020	WO	241166	Mika'il	Abadi	Corporate	Pakistan	Lahore	Site	OFF	BI	10001098	Courses	Graphic Design	49000	28	Pro-Care Garden Maintenance	null
+03/04/2020	LC	509600	Abdul-Hamid	Sabbag	Corporate	Pakistan	Lahore	Site	OFF	EN	10002500	Award	HR Award	1499	1	Purity Supreme	null
+03/04/2020	WE	944404	Jawad	Gaber	Consumer	Pakistan	Lahore	Site	OFF	EN	10002592	Award	Microsoft Office Award	1500	1	null	null
+03/04/2021	DV	369236	'Adil	Harb	Consumer	Pakistan	Lahore	Site	VLM	XG	70469387	Courses	Graphic Design	1750	1	null	null
+03/04/2021	DX	71079	Rasul	Shamon	Corporate	Pakistan	Lahore	Site	OFF	ST	10001496	Diploma	Microsoft Office Diploma	70000	28	Knockout Kickboxing	null
+03/04/2021	UX	213558	Saamiya	Antoun	Consumer	Pakistan	Lahore	Site	OFF	AR	10003087	Award	Social Media Award	1200	1	null	null
+03/04/2021	ZH	630388	Isa'	Amari	Consumer	Pakistan	Lahore	Site	OFF	BI	10004738	Courses	Graphic Design	1750	1	null	null
+03/04/2021	SU	337754	Mansur	Sleiman	Corporate	Pakistan	Lahore	Site	OFF	ST	10004258	Award	Microsoft Office Award	21000	14	Plan Future	null
+03/04/2021	GG	396432	Bisirat	Selassie	Consumer	Kenya	Nairobi	Site	TEC	PH	10001363	Diploma	Social Media Diploma	1899.99	1	null	null
+03/04/2021	UX	288321	Tekle	Goytiom	Consumer	Kenya	Nairobi	Site	OFF	AR	10000940	Award	Microsoft Office Award	1500	1	null	null
+03/04/2021	RO	846301	Bushra	Daher	Corporate	Pakistan	Lahore	Site	TEC	MA	10001148	Diploma	HR Diploma	14400	9	Freedom Map	null
+03/04/2021	KJ	834184	Nasri	Nassar	Consumer	Pakistan	Lahore	Site	TEC	PH	10004539	Diploma	HR Diploma	1600	1	null	null
+03/04/2021	PY	227453	Sha'ban	Ba	Home Office	Pakistan	Lahore	Site	TEC	CO	10004202	Diploma	Social Media Diploma	39899.79	21	null	null
+03/04/2021	WC	121741	Muna	Cham	Corporate	Pakistan	Lahore	Site	TAD	CY	26808459	Diploma	IT Support Diploma	17600	8	Monk Home Loans	null
+03/04/2021	LC	524249	Naomi	Chamberlain	Home Office	United Kingdom	Warrington	Site	NLM	QQ	86436812	Courses	Graphic Design	15750	9	null	null
+03/04/2021	MN	514522	Mollie	Henderson	Home Office	United Kingdom	Warrington	Site	OFF	BI	10003981	Award	Social Media Award	30000	25	null	null
+03/04/2021	GD	115002	Finley	Bates	Consumer	United Kingdom	Warrington	Site	OFF	PA	10004071	Courses	Graphic Design	1750	1	null	null
+03/04/2021	JI	485290	Jamila	Hagos	Consumer	Kenya	Nairobi	Site	TEC	AC	10002399	Diploma	Social Media Diploma	1899.99	1	null	null
+03/04/2021	RE	913587	Daniel	Craig	Consumer	United Kingdom	Liverpool	Hub	OFF	PA	10002160	Diploma	Graphic Design Diploma	1800	1	null	null
+03/04/2021	LB	790667	'Aqilah	Gerges	Consumer	Pakistan	Lahore	Site	WRF	XU	10419037	Diploma	Executive PA Diploma	4500	1	null	null
+03/04/2021	LE	909312	Abdul-Ahad	Bitar	Corporate	Pakistan	Lahore	Site	RSE	GL	68289422	Courses	Graphic Design	38500	22	StopGrey	null
+03/04/2021	EO	776261	Habte	Awate	Corporate	Kenya	Nairobi	Site	OFF	AR	10000246	Award	Microsoft Office Award	1500	1	Cut Rite Lawn Care	null
+03/05/2020	RL	800179	Aliyyah	Asfour	Home Office	Pakistan	Lahore	Site	OFF	PA	10004733	Award	Microsoft Office Award	34500	23	null	null
+03/05/2020	WH	231650	Fellah	Sabbagh	Home Office	Pakistan	Lahore	Site	FUR	TA	10001520	Courses	Microsoft Powerpoint	3887	13	null	null
+03/05/2020	HY	938472	Imtithal	Antoun	Consumer	Pakistan	Lahore	Site	OFF	AR	10002804	Award	Social Media Award	1200	1	null	null
+03/05/2020	OQ	754330	Daniel	French	Home Office	United Kingdom	Liverpool	Hub	FUR	FU	10001379	Courses	Medical Terminology	5400	12	null	null
+03/05/2020	TS	272522	Maudad	Ghannam	Consumer	Pakistan	Lahore	Site	KNJ	CO	26926017	Diploma	MOS Diploma	1999	1	null	null
+03/05/2020	OO	813406	Dominic	Jackson	Consumer	United Kingdom	Warrington	Site	OFF	BI	10000591	Courses	Graphic Design	1750	1	null	null
+03/05/2020	EG	390713	Saabira	Sabbagh	Consumer	Pakistan	Lahore	Site	OFF	ST	10000617	Diploma	Graphic Design Diploma	1800	1	null	null
+03/05/2020	MJ	244472	Haniyyah	Kassis	Consumer	Pakistan	Lahore	Site	THN	LF	32147674	Courses	Graphic Design	1750	1	null	null
+03/05/2020	JG	651275	Madeleine	Wells	Consumer	United Kingdom	Warrington	Site	FUR	CH	10001891	Courses	ECDL	625	1	null	null
+03/05/2020	HP	557	Wasimah	Kouri	Consumer	Kuwait	Kuwait City	Site	FUR	TA	10001039	Courses	Cloud Architecture	480	1	null	null
+03/05/2020	MZ	876562	Al	Tufayl Deeb	Corporate	Pakistan	Lahore	Site	OFF	PA	10002581	Courses	Graphic Design	45500	26	Total Yard Management	null
+03/05/2020	WO	982515	Sawdah	Assaf	Home Office	Pakistan	Lahore	Site	OFF	PA	10003641	Award	Microsoft Office Award	33000	22	null	null
+03/05/2021	KM	677439	Askalu	Afwerki	Corporate	Kenya	Nairobi	Site	OFF	PA	10000501	Award	Social Media Award	22800	19	Lafayette Radio	null
+03/05/2021	EA	650030	Zufan	Gabriel	Corporate	Kenya	Nairobi	Site	NKP	ZA	93980679	Award	HR Award	28481	19	Team Uno	null
+03/05/2021	GB	411359	Abeba	Temesgen	Consumer	Kenya	Nairobi	Site	TEC	PH	10002624	Diploma	Microsoft Office Diploma	2500	1	null	null
+03/05/2021	JZ	345319	Chloe	Porter	Home Office	United Kingdom	Liverpool	Hub	OFF	ST	10000136	Diploma	Microsoft Office Diploma	35000	14	null	null
+03/05/2021	RF	147003	Habibah	Gerges	Corporate	Pakistan	Lahore	Site	FUR	TA	10001539	Courses	SQL	9100	26	Starship Tapes & Records	null
+03/05/2021	LE	703295	Seif	Sayegh	Corporate	Pakistan	Lahore	Site	FUR	FU	10001986	Courses	Python	2450	7	Magik Lamp	null
+03/05/2021	SW	465859	William	Bentley	Home Office	United Kingdom	Warrington	Site	TEC	AC	10004571	Diploma	HR Diploma	22400	14	null	null
+03/05/2021	IS	181680	Rafi	Harb	Home Office	Pakistan	Lahore	Site	OFF	AP	10002534	Courses	Graphic Design	31500	18	null	null
+03/05/2021	FJ	500045	Sherrifah	Handal	Home Office	Pakistan	Lahore	Site	JBE	CQ	46715289	Courses	Graphic Design	33250	19	null	null
+03/05/2021	ZZ	247888	Esam	Halabi	Consumer	Pakistan	Lahore	Site	FUR	CH	10002965	Courses	ECDL	625	1	null	null
+03/05/2021	KZ	877051	Budayl	Touma	Home Office	Pakistan	Lahore	Site	OFF	BI	10004094	Courses	Graphic Design	35000	20	null	null
+03/05/2021	IZ	382490	Abdul-Quddus	Aswad	Home Office	Pakistan	Lahore	Site	OFF	LA	10002762	Diploma	Graphic Design Diploma	3600	2	null	null
+03/05/2021	VT	890106	Khadijah	Nader	Corporate	Pakistan	Lahore	Site	PPO	IW	32914095	Courses	Graphic Design	10500	6	Forth & Towne	null
+03/05/2021	FA	900834	Rawdah	Touma	Home Office	Pakistan	Lahore	Site	FUR	FU	10003268	Courses	CompTIA	1198	2	null	null
+03/05/2021	HO	829952	Usamah	Rahal	Home Office	Pakistan	Lahore	Site	OFF	BI	10000201	Diploma	Microsoft Office Diploma	45000	18	null	null
+03/05/2021	UZ	999666	Declan	Gilbert	Consumer	United Kingdom	Liverpool	Hub	XUS	IP	93853896	Courses	Graphic Design	1750	1	null	null
+03/06/2020	IZ	420404	Gebre	Hagos	Corporate	Kenya	Nairobi	Site	FUR	FU	10004017	Courses	ECDL	16875	27	Hit or Miss	null
+03/06/2020	JO	180082	Riyadh	Harb	Consumer	Pakistan	Lahore	Site	OFF	AR	10003158	Diploma	Social Media Diploma	1899.99	1	null	null
+03/06/2020	RO	953843	Temesgen	Tewolde	Home Office	Kenya	Nairobi	Site	QDS	CA	3184107	Courses	Graphic Design	5250	3	null	null
+03/06/2020	WK	26835	Bisrat	Awate	Consumer	Kenya	Nairobi	Site	OFF	AP	10001626	Diploma	HR Diploma	1600	1	null	null
+03/06/2020	RJ	18059	Amirah	Asghar	Consumer	Pakistan	Lahore	Site	OFF	AR	10003481	Diploma	Social Media Diploma	1899.99	1	null	null
+03/06/2020	YL	83263	Khuzaimah	Ganem	Home Office	Pakistan	Lahore	Site	MBO	BC	69823797	Courses	Graphic Design	15750	9	null	null
+03/06/2020	HZ	593952	Abraham	Iggi	Home Office	Kenya	Nairobi	Site	OFF	BI	10002813	Courses	Graphic Design	36750	21	null	null
+03/06/2020	QK	56168	Rafiq	Ganem	Corporate	Pakistan	Lahore	Site	TEC	MA	10000904	Diploma	Graphic Design Diploma	39600	22	Red Owl	null
+03/06/2020	SA	607320	Asmara	Aziz	Corporate	Kenya	Nairobi	Site	OFF	ST	10000760	Courses	Microsoft Excel	6783	17	S&W Cafeteria	null
+03/06/2020	TA	304112	Lauren	Hamilton	Home Office	United Kingdom	Warrington	Site	OFF	ST	10000617	Award	Microsoft Office Award	37500	25	null	null
+03/06/2020	TJ	640067	Tewelde	Filmon	Corporate	Kenya	Nairobi	Site	OFF	ST	10000078	Courses	Graphic Design	7000	4	Integra Wealth Planners	null
+03/06/2020	IL	807518	Martha	Efrem	Home Office	Kenya	Nairobi	Site	BOB	EE	10973221	Diploma	Executive PA Diploma	22500	5	null	null
+03/06/2020	EC	418178	Luca	Austin	Home Office	United Kingdom	Warrington	Site	QAL	DK	45269688	Diploma	IT Support Diploma	39600	18	null	null
+03/06/2020	IZ	968849	Aram	Mikhail	Corporate	Kuwait	Kuwait City	Site	TEC	AC	10002842	Diploma	Graphic Design Diploma	30600	17	Rite Solution	null
+03/06/2020	TF	230929	Sahla	Mifsud	Corporate	Pakistan	Lahore	Site	OFF	BI	10004728	Courses	Graphic Design	24500	14	Play Town	null
+03/06/2020	HH	495509	Lunah	Ganem	Consumer	Pakistan	Lahore	Site	YEO	JM	4277281	Courses	ECDL	625	1	null	null
+03/06/2021	WZ	284739	Peter	Sharpe	Corporate	United Kingdom	Warrington	Site	OFF	FA	10003112	Award	Microsoft Office Award	19500	13	id Boutiques	null
+03/06/2021	QN	801234	Abdul-Muttalib	Zogby	Home Office	Pakistan	Lahore	Site	OFF	FA	10004854	Courses	Executive Assistant Diploma	63984	16	null	null
+03/06/2021	BE	150665	Buhaysah	Rahal	Consumer	Pakistan	Lahore	Site	OFF	AR	10003190	Diploma	Graphic Design Diploma	1800	1	null	null
+03/06/2021	SH	684579	Adiba	Antoun	Consumer	Pakistan	Lahore	Site	OFF	PA	10000100	Award	Social Media Award	1200	1	null	null
+03/06/2021	QP	812692	Lemlem	Efrem	Home Office	Kenya	Nairobi	Site	OFF	LA	10004409	Diploma	Microsoft Office Diploma	22500	9	null	null
+03/06/2021	ZG	741839	Temesgen	Osman	Consumer	Kenya	Nairobi	Site	OFF	AP	10001492	Courses	Graphic Design	1750	1	null	null
+03/06/2021	YE	802277	Jack	Parkes	Corporate	United Kingdom	Warrington	Site	OFF	PA	10003016	Award	Microsoft Office Award	36000	24	Fradkin Brothers Furniture	null
+03/06/2021	WP	736434	Ra'ifah	Boulos	Corporate	Pakistan	Lahore	Site	TEC	AC	10000057	Diploma	Executive PA Diploma	81000	18	Superior Interior Design	null
+03/06/2021	UH	845624	Hannad	Nahas	Home Office	Pakistan	Lahore	Site	TEC	CO	10001766	Diploma	Executive PA Diploma	76500	17	null	null
+03/07/2020	SJ	226599	Badi	al Zaman Botros	Consumer	Pakistan	Lahore	Site	OKW	NM	62512577	Courses	Graphic Design	1750	1	null	null
+03/07/2020	RZ	442743	Namir	Masih	Home Office	Pakistan	Lahore	Site	MJN	OI	65796116	Award	HR Award	1499	1	null	null
+03/07/2020	OX	441945	Bisar	Naser	Home Office	Pakistan	Lahore	Site	FUR	BO	10002824	Courses	ECDL	10000	16	null	null
+03/07/2020	GI	408419	Yumn	Shadid	Corporate	Pakistan	Lahore	Site	FUR	BO	10003441	Courses	ECDL	15625	25	Singer Lumber	null
+03/07/2020	FB	566598	Ma'd	Boulos	Consumer	Pakistan	Lahore	Site	KIG	SX	51052022	Courses	Graphic Design	1750	1	null	null
+03/07/2020	ZI	59771	Jasmine	Wong	Corporate	United Kingdom	Liverpool	Hub	WNL	JR	38485279	Courses	CompTIA	7787	13	Builders Emporium	null
+03/07/2020	VQ	655395	Mujahid	Arian	Home Office	Pakistan	Lahore	Site	OFF	PA	10004355	Award	Microsoft Office Award	39000	26	null	null
+03/07/2020	VD	75445	Walif	Nahas	Consumer	Pakistan	Lahore	Site	OFF	PA	10004239	Courses	Graphic Design	1750	1	null	null
+03/07/2020	JW	459240	Walid	Bazzi	Corporate	Pakistan	Lahore	Site	OFF	BI	10003925	Award	Microsoft Office Award	22500	15	Benesome	null
+03/07/2020	FM	647818	Dylan	Stewart	Corporate	United Kingdom	Liverpool	Hub	TEC	PH	10000307	Diploma	Social Media Diploma	30399.84	16	Pantry Pride	null
+03/07/2021	WS	832666	Fahd	Essa	Home Office	Pakistan	Lahore	Site	OFF	LA	10001297	Award	Microsoft Office Award	18000	12	null	null
+03/07/2021	AZ	903946	Areebah	Wasem	Corporate	Pakistan	Lahore	Site	FUR	FU	10002597	Courses	Python	1750	5	Crandall's Fine Furniture	null
+03/07/2021	CC	738047	Muruj	Shammas	Home Office	Pakistan	Lahore	Site	OFF	FA	10000134	Courses	Graphic Design	21000	12	null	null
+03/07/2021	DY	219573	Ra'fat	Boutros	Corporate	Pakistan	Lahore	Site	OFF	BI	10001575	Courses	Graphic Design	24500	14	Unity Frankford Stores	null
+03/07/2021	XY	383437	Mariam	Tewelde	Home Office	Kenya	Nairobi	Site	OFF	BI	10002103	Courses	Graphic Design	42000	24	null	null
+03/07/2021	BC	76608	Harun	Khouri	Home Office	Pakistan	Lahore	Site	OFF	PA	10002870	Courses	Graphic Design	10500	6	null	null
+03/07/2021	IU	258771	'Amid	Rahal	Home Office	Pakistan	Lahore	Site	OFF	BI	10004593	Courses	Graphic Design	7000	4	null	null
+03/07/2021	UF	991339	Salma	Wasem	Corporate	Kuwait	Kuwait City	Site	OFF	BI	10002706	Courses	Graphic Design	19250	11	Eagle Hardware & Garden	null
+03/07/2021	UY	544090	Hikmat	Hadad	Home Office	Pakistan	Lahore	Site	ZGF	KB	34459925	Courses	Graphic Design	42000	24	null	null
+03/07/2021	EY	526635	Zula	Eyob	Corporate	Kenya	Nairobi	Site	FGQ	KW	26718034	Courses	CompTIA	1198	2	Sagebrush	null
+03/07/2021	FN	874151	Ghawth	Haik	Corporate	Pakistan	Lahore	Site	OFF	EN	10002504	Award	Microsoft Office Award	4500	3	Giant Open Air	null
+03/07/2021	LP	905072	Kai	Franklin	Consumer	United Kingdom	Warrington	Site	TEC	PH	10003437	Diploma	Executive PA Diploma	4500	1	null	null
+03/08/2020	YC	707021	Muhannad	Asghar	Corporate	Pakistan	Lahore	Site	OFF	AR	10001044	Courses	Graphic Design	7000	4	Dreamscape Garden Care	null
+03/08/2020	UQ	982611	Jinan	Daher	Consumer	Kuwait	Kuwait City	Site	GKE	DI	46690128	Courses	Graphic Design	1750	1	null	null
+03/08/2020	MV	535165	Muwaffaq	Bishara	Corporate	Pakistan	Lahore	Site	UNA	EO	92472623	Courses	ECDL	10000	16	Wealthy Ideas	null
+03/08/2020	DF	30307	Kisanet	Yemane	Consumer	Kenya	Nairobi	Site	OFF	ST	10004507	Award	Microsoft Office Award	1500	1	null	null
+03/08/2020	BW	916604	Medhanie	Mustafa	Consumer	Kenya	Nairobi	Site	OFF	BI	10002982	Diploma	Social Media Diploma	1899.99	1	null	null
+03/08/2020	DE	439465	Sayid	Mustafa	Home Office	Kenya	Nairobi	Site	EDT	CE	3413757	Award	IT Support Award	23750	19	null	null
+03/08/2020	NY	593425	Phoebe	Mellor	Corporate	United Kingdom	Warrington	Site	DOH	TU	6639174	Courses	Graphic Design	43750	25	Gold Leaf Garden Management	null
+03/08/2021	ME	690658	Naomi	Murray	Home Office	United Kingdom	Warrington	Site	FUR	CH	10002774	Courses	Microsoft Powerpoint	7176	24	null	null
+03/08/2021	EB	898674	Lubab	Antar	Consumer	Pakistan	Lahore	Site	OFF	SU	10000898	Courses	Graphic Design	1750	1	null	null
+03/08/2021	TG	358969	Rani	Nader	Corporate	Pakistan	Lahore	Site	OFF	BI	10002103	Award	Microsoft Office Award	43500	29	WWW Realty	null
+03/08/2021	GW	520432	Abdul	Nassar	Home Office	Pakistan	Lahore	Site	FKX	LM	511622	Diploma	IT Support Diploma	11000	5	null	null
+03/08/2021	BW	46874	Mezan	Abdullah	Home Office	Kenya	Nairobi	Site	DGN	HQ	21886534	Courses	Microsoft Excel	7182	18	null	null
+03/08/2021	BV	659170	Abdul-Hayy	Sabbag	Home Office	Pakistan	Lahore	Site	OFF	AR	10000716	Diploma	Microsoft Office Diploma	40000	16	null	null
+03/08/2021	QX	963264	Ubadah	Almasi	Corporate	Pakistan	Lahore	Site	OFF	PA	10002947	Award	Microsoft Office Award	45000	30	System Star	null
+03/08/2021	LA	107547	Harvey	Barry	Corporate	United Kingdom	Warrington	Site	OFF	EN	10002500	Award	Microsoft Office Award	21000	14	Rivera Property Maintenance	null
+03/08/2021	UA	824868	Abigail	Reeves	Corporate	United Kingdom	Warrington	Site	OFF	AR	10004022	Courses	Graphic Design	49000	28	Thompson	null
+03/09/2020	CR	596396	Yamha	Safar	Corporate	Pakistan	Lahore	Site	KQU	MH	92270896	Courses	ECDL	16250	26	Paul's Food Mart	null
+03/09/2020	YS	90622	Khalaf	Haddad	Corporate	Pakistan	Lahore	Site	MAD	NF	16921938	Courses	Graphic Design	22750	13	Audio Aid	null
+03/09/2020	XM	830174	Leon	Potter	Corporate	United Kingdom	Warrington	Site	FUR	CH	10002439	Courses	Social Media	10400	26	Electronic Geek	null
+03/09/2020	CE	807802	Zinat	Antoun	Home Office	Pakistan	Lahore	Site	MGR	WS	26330080	Diploma	Graphic Design Diploma	30600	17	null	null
+03/09/2020	NB	763721	Wafid	Touma	Consumer	Pakistan	Lahore	Site	OFF	AR	10003582	Award	Microsoft Office Award	1500	1	null	null
+03/09/2020	MN	431746	Abdul-Haqq	Asfour	Home Office	Kuwait	Kuwait City	Site	KNQ	ZP	42273777	Award	IT Support Award	22500	18	null	null
+03/09/2020	DA	602213	Tasnim	Mifsud	Consumer	Pakistan	Lahore	Site	OFF	PA	10004100	Award	HR Award	1499	1	null	null
+03/09/2020	DI	560009	Semira	Yonatan	Corporate	Kenya	Nairobi	Site	TEC	AC	10003628	Diploma	Graphic Design Diploma	43200	24	De-Jaiz Mens Clothing	null
+03/09/2020	AY	589568	Sharaf	Touma	Consumer	Pakistan	Lahore	Site	OFF	LA	10001158	Award	Microsoft Office Award	1500	1	null	null
+03/09/2020	XH	169515	Suhayb	Touma	Consumer	Pakistan	Lahore	Site	KWQ	UT	81154298	Diploma	IT Support Diploma	2200	1	null	null
+03/09/2020	SV	862049	Hayah	Rahal	Home Office	Pakistan	Lahore	Site	RSP	ZB	37950349	Courses	Graphic Design	29750	17	null	null
+03/09/2020	ZM	538999	Tewelde	Fesahaye	Home Office	Kenya	Nairobi	Site	DJA	QG	1501993	Courses	Graphic Design	10500	6	null	null
+03/09/2021	HP	312757	Duha	Naifeh	Consumer	Pakistan	Lahore	Site	OFF	EN	10002600	Award	Microsoft Office Award	1500	1	null	null
