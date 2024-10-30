@@ -1,0 +1,6 @@
+другое filter=lfs diff=lfs merge=lfs -text
+расширение filter=lfs diff=lfs merge=lfs -text
+*.png filter=lfs diff=lfs merge=lfs -text
+\# filter=lfs diff=lfs merge=lfs -text
+или filter=lfs diff=lfs merge=lfs -text
+любое filter=lfs diff=lfs merge=lfs -text
